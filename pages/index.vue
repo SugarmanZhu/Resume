@@ -59,7 +59,7 @@
                         <li>Skilled in processing and integrating <b>JSON</b> and other data formats into web applications</li>
                         <li>Proficient in Crafting <b>User-Friendly, Mobile-Responsive</b> HTML and CSS</li>
                         <li>Proactively Enhances Codebase and Developer Experience</li>
-                        <li>Attentive to UI Details</li>
+                        <li>Attention to UI Details</li>
                     </ul>
                 </div>
             </div>
@@ -81,9 +81,9 @@
                 <div class="m-2 pl-6">
                     <ul class="list-outside list-disc">
                         <li>Redesigned Web Interfaces for Enhanced Usability: Revamped web pages to <b>enhance user experience, improved layout, user accessibility and mobile responsiveness.</b></li>
-                        <li>Enhanced Payment Systems: Integrated and optimized multiple payment solutions including Stripe, PayPal, and Apple Pay. Improved <b>error handling, enhanced security measures, and reduced processing times</b>, resulting in a smoother transaction experience for users.</li>
-                        <li>Optimized Delivery Systems: Implemented Royal Mail <b>API</b> to automatically generate thousands of labels daily and integrated tracking features to monitor delivery status, significantly enhancing operational efficiency and customer service.</li>
-                        <li>Data Analysis: Utilized <b>SQL</b> to extract data from RDS for comprehensive analysis, assessing the effectiveness of changes, advertising campaigns, and <b>A/B testing</b>. Additionally analyzed profit data to inform strategic decision-making.</li>
+                        <li>Enhanced Payment Systems: Integrated and optimized multiple payment solutions including Stripe, PayPal, and Apple Pay. Introduced a robust subscription system and utilized Stripe <b>webhooks for real-time payment status updates</b>, which improved <b>error handling, enhanced security measures, and reduced processing times</b>.</li>
+                        <li>Optimized Delivery Systems: Implemented Royal Mail <b>API</b> to <b>automatically generate thousands of labels</b> daily and integrated tracking features to monitor delivery status, significantly enhancing operational efficiency and customer service.</li>
+                        <li>Data Analysis: Utilized <b>SQL</b> to extract data from <b>RDS</b> for comprehensive analysis, assessing the effectiveness of advertising campaigns, and <b>A/B testing</b>.</li>
                     </ul>
                 </div>
             </div>
